@@ -1,0 +1,5 @@
+Check the database for user name and password.
+user: ankit      password: ankit   is the administrator login.
+user: onews      password: onews   is normal user
+user with type 0  --- normal user
+user with type 1  --- administrator(more previlages)
